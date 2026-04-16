@@ -2,6 +2,7 @@
 Password Manager
 
 NOTE: This project was created as part of a Udemy course ("100 Days of Code: The Complete Python Pro Bootcamp").
+
 A Python-based password managing application in which users can input their email/username and password for any website/app, and the data will be securely stored locally and can be accessed anytime by calling the website/app name again. The app utilizes tkinter and json data.
 
 ## Features
